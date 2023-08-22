@@ -337,7 +337,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Lokesh-Joshi-from-India--e9givv/a-a15itvo"
+    "https://anchor.fm/lokeshcast/embed/episodes/lokeshStory---Lokesh-Joshi-from-India--e9givv/a-a15itvo"
   ],
   display: true // Set false to hide this section, defaults to true
 };
