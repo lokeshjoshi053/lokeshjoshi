@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/lokesh-joshi-7b636018a/",
   gmail: "lokeshjoshi053@gmail.com",
   facebook: "https://www.facebook.com/profile.php?id=100085500080803&mibextid=D4KYlr",
-  medium: "https://medium.com/@Lokeshjoshi",
+  medium: "https://medium.com/@Lokeshjoshi053",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
