@@ -126,7 +126,7 @@ const educationInfo = {
       schoolName: "Government Engineering College Rajkot",
       logo: require("./assets/images/gec.png"),
       subHeader: "Bachelor of Engineering in Electronics And Communication",
-      duration: "September 2013 - April 2017",
+      duration: "July 2019 - May 2023",
       desc: "Integrating roles as College Sports and Placement Coordinator, spearheading SSIP initiatives, orchestrating hackathons, and collaborating with ABVP Team. Elevating student experiences through innovation, skill-building, and teamwork for comprehensive development.",
     }
   ]
