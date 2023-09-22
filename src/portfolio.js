@@ -284,25 +284,25 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://www.linkedin.com/posts/lokesh-joshi-7b636018a_blockchain-cryptocurrency-technology-activity-7092725608245342208-gjcV?utm_source=share&utm_medium=member_desktop",
+      url: "https://www.linkedin.com/posts/lokesh-joshi-blockchain_blockchain-cryptocurrency-technology-activity-7092725608245342208-Uxmd?utm_source=share&utm_medium=member_desktop",
       title: "🌪 Revolutionizing the Commute with Self-Driving Cars and Blockchain!",
       description:
         "Let's take a ride into the future and explore how the powerful duo of self-driving cars and blockchain technology can transform our city commute!"
     },
     {
-      url: "https://www.linkedin.com/posts/lokesh-joshi-7b636018a_blockchain-ai-unleashing-the-ultimate-activity-7094177054723612672-uwaJ?utm_source=share&utm_medium=member_desktop",
+      url: "https://www.linkedin.com/posts/lokesh-joshi-blockchain_blockchain-ai-unleashing-the-ultimate-activity-7094177054723612672-TOrB?utm_source=share&utm_medium=member_desktop",
       title: "🔗🤖 Blockchain + AI: Unleashing the Ultimate Technological Fusion! 🔥",
       description:
         "Are you ready to witness the mind-blowing marriage of two cutting-edge technologies? Brace yourselves, folks, because the Blockchain and AI combination is here to revolutionize the world! 🌍"
     },
     {
-      url: "https://www.linkedin.com/posts/lokesh-joshi-7b636018a_blockchain-cryptocurrencies-blockchaintechnology-activity-7090562522642022400-0z8r?utm_source=share&utm_medium=member_desktop",
+      url: "https://www.linkedin.com/posts/lokesh-joshi-blockchain_blockchain-cryptocurrencies-blockchaintechnology-activity-7090562522642022400-odvT?utm_source=share&utm_medium=member_desktop",
       title: "🚀 Let's unravel the mystery of Decentralization Washing together! 🧐",
       description:
         "Decentralization washing is a marketing tactic used by some projects and companies in the blockchain and Web3 space to falsely claim that they are decentralized. 😱 This can mislead users into believing that they are using a decentralized platform, when in reality, it is just a centralized one with a few superficial decentralization features added on top. 😔"
     },
     {
-      url: "https://www.linkedin.com/posts/lokesh-joshi-7b636018a_technology-cryptocurrency-currency-activity-7077902065196240896-A_4q?utm_source=share&utm_medium=member_desktop",
+      url: "https://www.linkedin.com/posts/lokesh-joshi-blockchain_technology-cryptocurrency-currency-activity-7077902065196240896-q9mr?utm_source=share&utm_medium=member_desktop",
       title: "👉You can never appreciate cryptocurrency if you don't know the difference between money and currency.💱🤷‍♂️ 💵🤔",
       description:
         "Cryptocurrency is a fascinating and exciting new technology, but to truly appreciate it, you need to understand the difference between 💰money and 💱currency."
