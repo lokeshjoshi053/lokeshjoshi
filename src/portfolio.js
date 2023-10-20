@@ -26,7 +26,7 @@ const greeting = {
     "Passionate Blockchain Engineer adept at creating innovative decentralized solutions. Proficient in Ethereum, Solidity, and smart contracts, I specialize in ensuring security and transparency. Let's shape the future of trust together! 🚀🔗"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/18iTj9bdvH67skmJrH-99Nvn3Wmkuxtto/view?usp=drivesdk", // Set to empty to hide the button
+    "https://drive.google.com/file/d/19CMEISA4nAWYeBodZsRGRbOVGRVOu8Ml/view?usp=drivesdk", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
