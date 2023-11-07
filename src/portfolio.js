@@ -76,7 +76,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Hyperledger",
-      fontAwesomeClassname: "fab fa-solana"
+      fontAwesomeClassname: "fab fa-hyperledger"
     },
     {
       skillName: "Bitcoin",
