@@ -64,7 +64,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Blockchain",
-      fontAwesomeClassname: "fab fa-Cubes"
+      fontAwesomeClassname: "fab fa-cubes"
     },
     {
       skillName: "Rust",
@@ -75,8 +75,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-ethereum"
     },
     {
+      skillName: "Hyperledger",
+      fontAwesomeClassname: "fab fa-hyperledger"
+    },
+    {
       skillName: "Bitcoin",
-      fontAwesomeClassname: "fab fa-Bitcoin"
+      fontAwesomeClassname: "fab fa-bitcoin"
     },
     {
       skillName: "JavaScript",
@@ -97,10 +101,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "MetaVerse",
-      fontAwesomeClassname: "fab fa-Gamepad"
     },
     {
       skillName: "docker",
