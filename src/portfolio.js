@@ -87,6 +87,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-hand-holding-usd"
     },
     {
+      skillName: "Hyperledger Fabric",
+      fontAwesomeClassname: "fas fa-network-wired"
+    },
+    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -97,10 +101,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
     },
     {
       skillName: "aws",
