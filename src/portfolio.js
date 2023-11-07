@@ -76,7 +76,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Bitcoin",
-      fontAwesomeClassname: "fab fa-FaBitcoin"
+      fontAwesomeClassname: "fab fa-Bitcoin"
     },
     {
       skillName: "JavaScript",
