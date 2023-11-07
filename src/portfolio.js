@@ -87,7 +87,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-hand-holding-usd"
     },
     {
-      skillName: "Hyperledger Fabric",
+      skillName: "Hyperledger",
       fontAwesomeClassname: "fas fa-network-wired"
     },
     {
