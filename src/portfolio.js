@@ -83,6 +83,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-bitcoin"
     },
     {
+      skillName: "DeFi",
+      fontAwesomeClassname: "fas fa-hand-holding-usd"
+    },
+    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -101,10 +105,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
