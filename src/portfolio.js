@@ -64,7 +64,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Blockchain",
-      fontAwesomeClassname: "fas fa-Cubes"
+      fontAwesomeClassname: "fab fa-Cubes"
     },
     {
       skillName: "Rust",
