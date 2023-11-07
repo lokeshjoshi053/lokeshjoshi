@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/lokeshjoshi053",
-  linkedin: "https://www.linkedin.com/in/lokesh-joshi-7b636018a/",
+  linkedin: "https://www.linkedin.com/in/lokesh-joshi-blockchain/",
   gmail: "lokeshjoshi053@gmail.com",
   facebook: "https://www.facebook.com/profile.php?id=100085500080803&mibextid=D4KYlr",
   medium: "https://medium.com/@Lokeshjoshi053",
