@@ -99,8 +99,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "MetaVerse",
+      fontAwesomeClassname: "fab fa-Gamepad"
     },
     {
       skillName: "docker",
