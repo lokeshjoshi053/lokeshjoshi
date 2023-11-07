@@ -75,8 +75,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-ethereum"
     },
     {
-      skillName: "Hyperledger",
-      fontAwesomeClassname: "fab fa-hyperledger"
+      skillName: "Web 3.0",
+      fontAwesomeClassname: "fas fa-globe"
     },
     {
       skillName: "Bitcoin",
